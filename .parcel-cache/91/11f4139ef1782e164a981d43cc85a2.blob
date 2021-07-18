@@ -1,0 +1,10 @@
+let html = document.querySelector('#demo');
+let n = 1;
+html.innerHTML = n;
+let step = ()=>{
+    setTimeout(()=>{
+        n = n + 1;
+        html.innerHTML = n;
+        if (n <= 10) step();
+    }, 100);
+};

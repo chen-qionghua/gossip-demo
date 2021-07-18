@@ -1,0 +1,1 @@
+let html = document.querySelector('#html'); let n = 1; html.innerHTML = n; let step = () => { setTimeout(() => { n = n + 1; html.innerHTML = n; if (n <=1 0) { step(); } else {} }, 100); }; step()<script src="4ad0979c663ae1096c31c630282fb70e"></script>

@@ -1,0 +1,5 @@
+4
+40C:\Users\11691\Desktop\x\gossip-demo\src132709787549444052 1
+51C:\Users\11691\Desktop\x\gossip-demo\src\index.html132709787595070553 0
+48C:\Users\11691\Desktop\x\gossip-demo\src\main.js132709787479502825 0
+50C:\Users\11691\Desktop\x\gossip-demo\src\style.css132709787549444052 0
